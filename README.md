@@ -1,4 +1,4 @@
-# Oxygen-OS-Debloater
+# OxygenOS-Debloater
 
 List of removed apps
 
