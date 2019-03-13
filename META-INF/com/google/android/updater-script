@@ -33,7 +33,7 @@ delete_recursive("/system/reserve/OPIconpackCircle");
         ui_print("- Removing Icon Pack - OnePlus Square");
 delete_recursive("/data/user/0/com.oneplus.iconpack.square");
 delete_recursive("/system/reserve/OPIconpackSquare");
-        ui_print("- Removing Weather");
+        ui_print("- Removing OnePlus Weather");
 delete_recursive("/data/user/0/net.oneplus.weather");
 delete_recursive("/system/reserve/Weather");
         ui_print("- Removing OnePlus Widget");
@@ -47,6 +47,7 @@ delete_recursive("/data/user/0/com.oneplus.filemanager");
 delete_recursive("/system/reserve/OPFilemanager");
         ui_print("- Removing OnePlus Account");
 delete_recursive("/system/app/Account");
+
 
 show_progress(0.5, 1);
 ui_print("            Unmounting System Partition             ");
