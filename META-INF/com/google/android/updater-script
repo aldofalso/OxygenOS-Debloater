@@ -48,7 +48,6 @@ delete_recursive("/system/reserve/OPFilemanager");
         ui_print("- Removing OnePlus Account");
 delete_recursive("/system/app/Account");
 
-
 show_progress(0.5, 1);
 ui_print("            Unmounting System Partition             ");
 run_program("/sbin/busybox", "umount", "/data");
