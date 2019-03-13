@@ -32,7 +32,7 @@ Icon Pack - OnePlus Round
 Icon Pack - OnePlus Square
 
 
-Weather
+OnePlus Weather
 
 
 OnePlus Widget
