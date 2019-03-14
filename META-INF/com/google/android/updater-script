@@ -57,4 +57,4 @@ run_program("/sbin/busybox", "umount", "/vendor");
 ui_print("            Unmounting Done                         ");
 show_progress(0.25, 1);
 ui_print("----------------------------------------------------");
-ui_print("   <<<******Finshed*******>>>");
+ui_print("   ******Completed*******");
